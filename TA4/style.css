@@ -1,0 +1,26 @@
+.donation-button{
+    border-radius: 7px;
+}
+
+.donation-button:hover{
+    background-color: aqua;
+}
+
+.primerboton:hover{
+    font-size: larger;
+}
+div>p{
+    border-top: 5px solid red;
+}
+
+div p{
+    background-color: gold;
+}
+
+div>p+p{
+    font-size: larger;
+}
+
+h2~p:hover{
+    color:limegreen
+}
