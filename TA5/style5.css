@@ -1,0 +1,12 @@
+body {
+    background-image: url("parquecentral.jpeg");
+    background-size: 100%; 
+  }
+  
+.board{
+  color: white;
+}
+
+button{
+  size: 300px;
+}
